@@ -26,7 +26,8 @@ VYNTAL-I provides a unified, intelligent, and automated analytics system that:
 ✅ Generates visualizations
 ✅ Provides actionable insights in seconds
 
-<img width="487" height="485" alt="image" src="https://github.com/user-attachments/assets/a284241c-8139-4623-b379-6e02937b51cd" />
+<img width="1024" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/d6f80981-c2fe-4d55-a383-86b0b837cc8e" />
+
 
 ✨ Key Features
 🤖 Multi-Agent Intelligence
